@@ -4,7 +4,7 @@ Repository for the PSET project for Programming Language discipline.
 Repositório para o projeto de PSET para a disciplina de Linguagens de Programação, ministrada pelo professor Abrantes Araújo Silva Filho pela Universidade Vila Velha.
 
 ## Para uso:
-Se você pretende realizar o desafio proposto por esse PSET, evite olhar a lógica de como outras pessoas realizaram esse desafio. Utilize o código resolvido apenas como gabarito ou para comparar sua lógica com a minha e com a de outros que tentaram resolver o mesmo problema. Caso se interesse em realizar o projeto, vou deixar aberto o arquivo do PSET original cru para ser realizado.
+Se você pretende realizar o desafio proposto por esse PSET, evite olhar a lógica de como outras pessoas realizaram esse desafio. Utilize o código resolvido apenas como gabarito ou para comparar sua lógica com a minha e com a de outros que tentaram resolver o mesmo problema. Caso se interesse em realizar o projeto, vou deixar aberto o arquivo do PSET original cru para ser realizado (pset1.py).
 
 *Caso queira também, vou adorar acompanhar o andamento de como você está realizando o projeto e que lógica está utilizando. Sinta-se livre para compartilhar comigo, vou adorar discutir!!*
 
