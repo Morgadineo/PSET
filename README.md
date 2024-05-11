@@ -1,2 +1,2 @@
 # PSET
-Repository for the PSET project for Programming Language discipline
+Repository for the PSET project for Programming Language discipline.
